@@ -1,0 +1,16 @@
+<svg width="50" height="50" viewBox="0 0 100 100"
+    xmlns="http://www.w3.org/2000/svg">
+    <!-- First note head -->
+    <circle cx="30" cy="70" r="8" fill="black" />
+    <!-- Second note head -->
+    <circle cx="50" cy="60" r="8" fill="black" />
+
+    <!-- First note stem -->
+    <line x1="30" y1="70" x2="30" y2="40" stroke="black" stroke-width="3" />
+    <!-- Second note stem -->
+    <line x1="50" y1="60" x2="50" y2="30" stroke="black" stroke-width="3" />
+
+    <!-- Connecting line between notes -->
+    <line x1="30" y1="40" x2="50" y2="30" stroke="black" stroke-width="3" />
+</svg>
+                      

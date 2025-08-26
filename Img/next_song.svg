@@ -1,0 +1,8 @@
+<svg width="50" height="50" viewBox="0 0 100 100"
+    xmlns="http://www.w3.org/2000/svg">
+    <!-- Vertical line for the pause effect on the right -->
+    <line x1="70" y1="30" x2="70" y2="70" stroke="black" stroke-width="5" />
+
+    <!-- Smaller triangle 1 for the previous icon, positioned with a 10px gap from the line -->
+    <polygon points="45,35 45,65 60,50" fill="none" stroke="black" stroke-width="4" />
+</svg>

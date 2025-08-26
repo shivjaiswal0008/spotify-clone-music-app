@@ -1,0 +1,7 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle background -->
+  <circle cx="25" cy="25" r="22.5" fill="none" stroke="black" stroke-width="3"/>
+  
+  <!-- Play button (triangle) -->
+  <polygon points="20,15 35,25 20,35" fill="black" />
+</svg>

@@ -1,0 +1,13 @@
+<svg class="invert" width="50" height="50" viewBox="0 0 100 100"
+    xmlns="http://www.w3.org/2000/svg">
+    <!-- Speaker base -->
+    <polygon points="30,35 30,65 50,65 60,75 60,25 50,35" fill="white" />
+
+    <!-- Sound waves -->
+    <path d="M70,30 Q85,50 70,70" fill="none" stroke="white" stroke-width="3" />
+    <path d="M75,25 Q95,50 75,75" fill="none" stroke="white" stroke-width="2" />
+    <path d="M80,20 Q105,50 80,80" fill="none" stroke="white" stroke-width="1.5" />
+
+    <!-- Decorative circle near speaker base for added design -->
+    <circle cx="40" cy="50" r="4" fill="white" />
+</svg>

@@ -1,0 +1,13 @@
+<svg width="30" height="30" viewBox="0 0 100 100"
+    xmlns="http://www.w3.org/2000/svg">
+    <!-- Cross lines -->
+    <line x1="20" y1="20" x2="80" y2="80" stroke="white" stroke-width="10" stroke-linecap="round" />
+    <line x1="80" y1="20" x2="20" y2="80" stroke="white" stroke-width="10" stroke-linecap="round" />
+
+    <!-- Circles at the ends of each line to give a musical feel -->
+    <circle cx="20" cy="20" r="6" fill="yellow" />
+    <circle cx="80" cy="80" r="6" fill="yellow" />
+    <circle cx="80" cy="20" r="6" fill="yellow" />
+    <circle cx="20" cy="80" r="6" fill="yellow" />
+</svg>
+                      

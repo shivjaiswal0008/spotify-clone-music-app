@@ -1,0 +1,60 @@
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.border{
+    border: 2px solid red;
+    margin: 3px;
+}
+
+.bg-black{
+    background-color: black;
+    color: white;
+}
+
+.bg-grey{
+    background-color: #121212;
+}
+
+.invert{
+    filter: invert(1);
+}
+
+.rounded{
+    border-radius: 10px;
+}
+
+.m-1{
+    margin: 2px;
+}
+
+.p-1{
+    padding: 10px;
+}
+
+*::-webkit-scrollbar {
+    width: 12px;              
+}
+
+*::-webkit-scrollbar-track {
+    background: #2a2a2a;     
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #4a4a4a;
+    border-radius: 6px;       
+    border: 3px solid #2a2a2a; 
+}
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #4a4a4a #2a2a2a; 
+}
